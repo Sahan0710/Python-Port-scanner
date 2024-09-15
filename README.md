@@ -3,9 +3,13 @@ A multithreaded port scanner capable of scanning TCP and UDP ports, performing b
 
 #Key Features:
 Scans both TCP and UDP ports.
+
 Performs banner grabbing for open TCP ports.
+
 Multithreaded for fast scanning, leveraging available CPU cores.
+
 Saves scan results in multiple formats: JSON, CSV, Excel, and text.
+
 Interactive mode for re-running scans with new parameters.
 
 # Pre-requsities
