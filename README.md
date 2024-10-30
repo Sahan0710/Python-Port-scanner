@@ -14,7 +14,7 @@ Saves scan results in multiple formats: JSON, CSV, Excel, and text.
 Interactive mode for re-running scans with new parameters.
 
 # Pre-requsities
-pip install snapy==2.5.0
+pip install scapy==2.5.0
 
 pip install pandas
 
